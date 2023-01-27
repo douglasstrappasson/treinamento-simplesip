@@ -1,2 +1,3 @@
 public/bootstrap/*
 /uploads/*
+/config/config.php
